@@ -1,2 +1,6 @@
 some issue with something
+<<<<<<< HEAD
 123456
+=======
+noel
+>>>>>>> 5cbf71d97a7484f4184b7bac03ebbf9060e693fe
